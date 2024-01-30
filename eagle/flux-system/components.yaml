@@ -9,7 +9,7 @@ spec:
   ref:
     branch: main
     # tag: v0.1.0
-  url: https://github.com/sundarok/cluster-components-flux-helm.git
+  url: https://github.com/tanviranadive/cluster-components-flux-helm.git
 ---
 apiVersion: helm.toolkit.fluxcd.io/v2beta1
 kind: HelmRelease
